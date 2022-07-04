@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -o nounset
+set -o errexit
+
+GOOS=linux GOARCH=amd64 go build -o parallel .

@@ -1,0 +1,11 @@
+github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/io-da/command v1.2.3 h1:jmPFtiQHeq7usTln7FTQhuAdHuWOrLvKxGlQ6rUNVp4=
+github.com/io-da/command v1.2.3/go.mod h1:eID/+Tx7fwYjXWWg4V3FF1/l0zQcQXU6bxj65sURgE4=
+github.com/io-da/event v1.3.2 h1:lnD8neuIZRfRm0oYkdvaQ17/xhjzlIoDQAGZ+pDA0Hs=
+github.com/io-da/event v1.3.2/go.mod h1:TQyL30dQieWHa+PQHhaBp3+Bn51B9D0QSJKCOj+jxJg=
+github.com/io-da/schedule v1.1.0/go.mod h1:Uf7nUIFoSRibe76mLVku/sIKcb5FfTervI1PsBb4Wks=
+github.com/io-da/schedule v1.1.1 h1:qcG58LSwLUJLeuSaYIu4kevSE8oOcp/jAxDDJnkc5zA=
+github.com/io-da/schedule v1.1.1/go.mod h1:Uf7nUIFoSRibe76mLVku/sIKcb5FfTervI1PsBb4Wks=
+github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 h1:Z9n2FFNUXsshfwJMBgNA0RU6/i7WVaAegv3PtuIHPMs=
+github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51/go.mod h1:CzGEWj7cYgsdH8dAjBGEr58BoE7ScuLd+fwFZ44+/x8=
